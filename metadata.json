@@ -1,0 +1,7 @@
+{
+  "name": "Freshly",
+  "description": "Intelligent food management with AI scanning and predictive waste alerts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
